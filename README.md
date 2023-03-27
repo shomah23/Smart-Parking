@@ -41,4 +41,6 @@ Smart parking technologies make sure there are fewer automobiles driving around 
 
 # Arduino
 
+![Screenshot (50)](https://user-images.githubusercontent.com/109688999/227899820-990fad89-1c9d-490c-9e21-cabb486daa5c.png)
 
+Arduino is an open-source physical computing platform based on a simple I/O board and a development environment that implements the Processing/Wiring language. Arduino can be used to develop stand-alone interactive objects or can be connected to software on your computer
